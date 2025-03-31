@@ -1,6 +1,6 @@
 # Site settings
 title: aaaa
-baseurl: ""
+baseurl: "/ap"
 url: "https://leegwangje.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
